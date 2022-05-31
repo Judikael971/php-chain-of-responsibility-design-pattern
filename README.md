@@ -1,4 +1,4 @@
-# php-chain-of-responsibility-design-pattern
+# Design Pattern "Chain of Responsability" (PHP)
 
 ## Initialisation du projet
 Depuis votre terminal, exécutez la commande suivante:
