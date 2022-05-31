@@ -16,7 +16,7 @@ php index.php
 L'application vous demande de saisir l'ingrédient que vous souhaitez cuisiner.
 Renseignez l'ingrédient et validez votre saisie en appuyant sur la touche "entrer" de votre clavier.
 
-En fonction de votre ingrédieent, l'applicatioon vous répondra.
+En fonction de votre ingrédient, l'application vous répondra.
 
 
 ## Liste d'ingrédients
